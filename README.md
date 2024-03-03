@@ -1,3 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Light beam representing a photon -->
+  <path d="M20 50 Q50 20 80 50 Q50 80 20 50 Z" fill="#ffdb58"/>
+  <!-- Text "Photon" -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#000">Photon</text>
+</svg>
+
 # Photon is a lightweight and flexible PHP microframework.
 
 [![Downloads](https://img.shields.io/github/downloads/MrWasimAbbasi/photon/total.svg)](https://github.com/MrWasimAbbasi/photon/releases/)  [![License](https://img.shields.io/github/license/MrWasimAbbasi/photon.svg)](https://github.com/MrWasimAbbasi/photon/blob/master/LICENSE)
