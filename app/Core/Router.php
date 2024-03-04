@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Core;
+
 class Router
 {
     public function route($url)
@@ -22,7 +23,7 @@ class Router
             }
 
         } catch (\Exception $exception) {
-            throw new \Exception($exception->getMessage());
+            throw new \Exception($exception->getMessage(), $exception->getCode());
         }
     }
 
