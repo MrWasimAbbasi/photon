@@ -15,4 +15,26 @@
 
 *Purpose of photon is make small web applications quickly than ever. This framework is yet under-development yet, and suppose to released by the end of 2024, You're free to participate in development.*
 
+Core Features:
+
+1. ErrorHandling
+2. Routing
+3. Dependency Injection
+4. .ENV support
+5. Middlewares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @author: MrWasimAbbasi
