@@ -22,7 +22,7 @@ Core Features:
 3. Dependency Injection
 4. .ENV support
 5. Middlewares
-
+6. Database ORM
 
 
 
