@@ -19,7 +19,7 @@ class Router
                 $controller->$actionName();
             } else {
                 // Handle 404 error
-                echo '404 Not Found';
+                throw new \Exception('404', 404);
             }
 
         } catch (\Exception $exception) {
