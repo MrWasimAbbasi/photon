@@ -9,6 +9,6 @@ class HomeController
 {
     public function index()
     {
-        View::render('/home/index', ['welcome' => 'Hello World!', 'users' => $rows]);
+        View::render('/home/index', ['welcome' => 'Hello World!']);
     }
 }
