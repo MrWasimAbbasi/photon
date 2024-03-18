@@ -21,6 +21,7 @@ Core Features:
 4. .ENV support
 5. Middlewares
 6. Database ORM
+7. Development friendly dumper package support.
 
 
 
