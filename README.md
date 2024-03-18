@@ -7,7 +7,9 @@
 
 # Photon is a lightweight and flexible PHP microframework.
 
-[![Downloads](https://img.shields.io/github/downloads/MrWasimAbbasi/photon/total.svg)](https://github.com/MrWasimAbbasi/photon/releases/)  [![License](https://img.shields.io/github/license/MrWasimAbbasi/photon.svg)](https://github.com/MrWasimAbbasi/photon/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/MrWasimAbbasi/photon/total.svg)](https://github.com/MrWasimAbbasi/photon/releases/)  
+[![Build Status](https://scrutinizer-ci.com/g/MrWasimAbbasi/photon/badges/build.png?b=main)](https://scrutinizer-ci.com/g/MrWasimAbbasi/photon/build-status/main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/MrWasimAbbasi/photon/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
 [![Release Version](https://img.shields.io/github/v/release/MrWasimAbbasi/photon.svg)](https://github.com/MrWasimAbbasi/photon/releases/)
 [![Contributors](https://img.shields.io/github/contributors/MrWasimAbbasi/photon.svg)](https://github.com/MrWasimAbbasi/photon/graphs/contributors)
 [![Coverage Status](https://coveralls.io/repos/github/MrWasimAbbasi/photon/badge.svg)](https://coveralls.io/github/MrWasimAbbasi/photon)
